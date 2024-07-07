@@ -31,3 +31,6 @@ codegen/
 
 # Cloud based storage dotfile
 .MATLABDriveTag
+mdb_pr001.mat
+mdb_pr002.mat
+mdb_pr002_noise.mat
